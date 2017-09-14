@@ -1,0 +1,196 @@
+[
+  {
+    "Id": "93fecfba-31a8-468e-af82-048457320bad",
+    "GroupIds": [],
+    "DisplayName": "Services Agreement",
+    "Description": "Demonstration agreement",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-07-22T09:26:21.1604854+00:00",
+    "DateModified": "2016-07-22T09:26:21.1604854+00:00"
+  },
+  {
+    "Id": "17e3d716-38e4-4ab7-973e-069fb86ed7a7",
+    "GroupIds": [],
+    "DisplayName": "EmAgreement.docx",
+    "Description": "New version",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-06-08T11:16:10.3994979+00:00",
+    "DateModified": "2016-06-08T11:16:10.3994979+00:00"
+  },
+  {
+    "Id": "3318055b-68c7-4abc-b8dc-0fd9cb61ab32",
+    "GroupIds": [
+      20003
+    ],
+    "DisplayName": "Sales Force Account Data",
+    "Description": "Sales Force Account Data",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-04-18T14:16:18.4743225+00:00",
+    "DateModified": "2016-04-18T14:16:18.4743225+00:00"
+  },
+  {
+    "Id": "d6933556-c7f6-45a0-aac5-20638f1f215c",
+    "GroupIds": [
+      20003
+    ],
+    "DisplayName": "Simple Data Look Up",
+    "Description": "A Customer Lookup Example",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-03-02T13:16:42.3939867+00:00",
+    "DateModified": "2016-03-02T13:16:42.3939867+00:00"
+  },
+  {
+    "Id": "c4d2aca1-21b0-44c3-a795-4386ab232118",
+    "TemplateVersionIds": [
+      "087ba23f-18d8-4373-b965-288d2a3fec9d",
+      "7bbc0664-e88f-40e5-8a35-e3284da7ca31"
+    ],
+    "GroupIds": [],
+    "DisplayName": "Simple Will",
+    "Description": "A Description",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2017-01-29T21:05:07.6286305+00:00",
+    "DateModified": "2017-01-29T21:05:07.6286305+00:00"
+  },
+  {
+    "Id": "61881ecb-d700-4c8b-862f-4656d93a6b09",
+    "GroupIds": [],
+    "DisplayName": "aaa",
+    "Description": "asd",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-04-25T15:11:35.781467+00:00",
+    "DateModified": "2016-04-25T15:24:31.6617377+00:00"
+  },
+  {
+    "Id": "6b52faa9-580a-4684-a70d-4753c7940a5e",
+    "GroupIds": [],
+    "DisplayName": "A new Employement Agreement",
+    "Description": "None",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2017-03-06T16:32:24.1321343+00:00",
+    "DateModified": "2017-03-06T16:32:24.1321343+00:00"
+  },
+  {
+    "Id": "790ce668-631b-4f92-8164-534de0c5fd74",
+    "GroupIds": [],
+    "DisplayName": "Interview Only",
+    "Description": "Interview only",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-11-01T16:59:11.8362878+00:00",
+    "DateModified": "2016-11-01T16:59:11.8362878+00:00"
+  },
+  {
+    "Id": "5cef8227-cf5f-49e3-b5fb-7772184989dc",
+    "GroupIds": [
+      7
+    ],
+    "DisplayName": "Salesforce account details",
+    "Description": "Sales Force Account Data",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-03-31T13:42:14.8877536+00:00",
+    "DateModified": "2016-03-31T13:42:14.8877536+00:00"
+  },
+  {
+    "Id": "42814019-6723-4a12-adcd-797c56316d65",
+    "GroupIds": [],
+    "DisplayName": "ISDA Master Agreement",
+    "Description": "ISDA Master Agreement",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-03-02T11:20:01.7006263+00:00",
+    "DateModified": "2016-03-02T11:20:01.7006263+00:00"
+  },
+  {
+    "Id": "6fa28a48-1023-48be-a56c-83ef05d58492",
+    "GroupIds": [],
+    "DisplayName": "LIBOR Currency Term and RCF",
+    "Description": "",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-10-07T09:51:02.8657611+00:00",
+    "DateModified": "2016-10-07T09:51:02.8657611+00:00"
+  },
+  {
+    "Id": "e777a394-1753-45ea-9076-9953afaf992a",
+    "GroupIds": [],
+    "DisplayName": "Definitions",
+    "Description": "",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-11-02T13:30:47.8541211+00:00",
+    "DateModified": "2016-11-02T13:30:47.8541211+00:00"
+  },
+  {
+    "Id": "88e95947-e351-4dcf-a399-a164f10f42bf",
+    "GroupIds": [
+      30003
+    ],
+    "DisplayName": "Employee Personal Data",
+    "Description": "",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-06-08T11:24:35.5094758+00:00",
+    "DateModified": "2016-06-08T11:24:35.5094758+00:00"
+  },
+  {
+    "Id": "6baa7a03-2b0b-4278-bbb1-b44e31e60198",
+    "GroupIds": [
+      4
+    ],
+    "DisplayName": "Hotdocs Hub provisioning template",
+    "Description": "Hotdocs Hub provisioning template",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-03-23T09:28:43.7684621+00:00",
+    "DateModified": "2016-03-23T09:28:43.7684621+00:00"
+  },
+  {
+    "Id": "c4bcbe62-d503-4fdf-979d-bd79f7d29ce8",
+     "GroupIds": [
+      4
+    ],
+    "DisplayName": "Commercial Loan Agreement  V2",
+    "Description": "This Loan Agreement is a signed acknowledgement by the borrowing entity or entities of basic loan terms and conditions under which the loan was approved.  ",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-10-28T10:18:25.7131326+00:00",
+    "DateModified": "2016-11-01T09:29:49.2463108+00:00"
+  },
+  {
+    "Id": "5c88be91-2c97-4438-a599-cb401fcd033d",
+    "GroupIds": [
+      8
+    ],
+    "DisplayName": "COM00011 - NZVIF - Term Sheet Ordinary or Preference Shares",
+    "Description": "",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-05-09T16:29:11.0723238+00:00",
+    "DateModified": "2016-05-09T16:29:11.0723238+00:00"
+  },
+  {
+    "Id": "406bea8e-24e7-45c2-a850-ffdec33c4635",
+    "GroupIds": [
+      10002,
+      10003,
+      10004,
+      4,
+      20003
+    ],
+    "DisplayName": "Standard Customer Contract",
+    "Description": "Updated 15 Feb 2005",
+    "LiveVersion": 0,
+    "RepositoryName": "Template Hub Repository",
+    "DateCreated": "2016-03-01T16:35:47.5871194+00:00",
+    "DateModified": "2016-03-01T16:35:47.5871194+00:00"
+  }
+]
